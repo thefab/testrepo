@@ -1,6 +1,7 @@
 <a name=""></a>
 #  (2018-09-17)
 
+# test
 
 ### Bug Fixes
 
@@ -25,6 +26,3 @@
 ### BREAKING CHANGES
 
 * `extends` key in config file is now used for extending other config files
-
-
-
